@@ -1,8 +1,0 @@
-# FORMAT:
-# KEY|HWID
-# Example:
-# OPTIC-USER1-AAAA|12345678-ABCD-...
-#
-# Keys WITHOUT |HWID are rejected by the loader.
-
-OPTIC-DEMO-KEY-001|REPLACE_WITH_REAL_HWID
